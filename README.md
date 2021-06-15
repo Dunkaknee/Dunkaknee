@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Dunkaknee
+- 👀 I'm interested in Network Configurations and Automation
+- 🌱 I’m currently working on getting my ccna/ccnp
